@@ -1,7 +1,0 @@
-p id=homeh2Homeh2p
-br
-img src=.imgimages2.jpeg alt=GOA width=30%
-pWelcome to the GOA's website, on this website you'll know some facts on GOA.p
-pWe have many pictures of studying and enjoing in GOA academy.p
-img src=.imgdownload123.jpg alt=Studying width=30%
-img src=.imgimages (1).jfif alt=Enjoing width=30%
